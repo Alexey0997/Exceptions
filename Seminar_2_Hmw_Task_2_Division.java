@@ -8,7 +8,7 @@ import java.util.Scanner;
 с сообщением "Деление на ноль недопустимо".
 В противном случае, программа должна выводить результат деления.
  */
-public class Seminar_2_Hmw_Division {
+public class Seminar_2_Hmw_Task_2_Division {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         try {
